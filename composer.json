@@ -1,5 +1,5 @@
 {
-  "name": "xtlsoft/php2js",
+  "name": "frdl/php2js",
   "description": "Compile PHP to Javascript.",
   "type": "library",
   "license": "MIT",
